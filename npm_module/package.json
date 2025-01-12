@@ -1,0 +1,28 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "npm test app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sametcandan14/nodeJS.git"
+  },
+  "keywords": [
+    "node",
+    "npm"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sametcandan14/nodeJS/issues"
+  },
+  "homepage": "https://github.com/sametcandan14/nodeJS#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "moment": "^2.30.1"
+  }
+}
